@@ -66,3 +66,15 @@ iframe{
     display:block;
     margin:20px auto;
 }
+footer{
+    max-width: 70%;
+    margin:0 auto;
+    background-color: #000;
+    color:#ffffff;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+footer a{
+    color:red;
+}
